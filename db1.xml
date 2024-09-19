@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test>
+
+<webpage name="www.cs.mcgill.ca">
+    <link name="www.ea.com" />
+    <link name="www.ubisoft.com" />
+    <link name="www.eidos.com" />
+    <link name="www.unreal.com" />
+    <link name="www.unity.com" />
+    <rank value="2.2236101759767317" />
+    <content value=" McGill University is one of the top research universities in Canada and is the only Canadian university to rank consistently among the top 25 universities in the world (based on Times and QS rankings). The School of Computer Science currently stands second in Canada for its research funding. Our professors have received most of the top awards in Computer Science, while our students go on to become top-notch research and industry leaders. A graduate degree from the McGill School of Computer Science is recognized in both the academic and industrial worlds as a proof of excellence. Our department is currently 34 faculty members strong, 60 Ph.D. students, and 100 Masters students. All of our Ph.D. students and most of our Masters students are funded through teaching assistantships or research assistantships. Approximately half our graduate students are Canadian and the other half are from abroad."/>
+</webpage>
+
+<webpage name="www.ea.com">
+    <link name="www.ubisoft.com" />
+    <link name="www.unity.com" />
+    <link name="www.cs.mcgill.ca" />
+	<link name="www.amazon.com" />
+	<link name="www.google.com" />
+	<link name="www.facebook.com" />
+    <rank value="1.1853613132406455" />
+    <content value="Electronic Arts Inc. is a global leader in digital interactive entertainment. EA develops and delivers games, content and online services for Internet-connected consoles, mobile devices and personal computers. EA has more than 300 million registered players around the world."/>
+</webpage>
+
+<webpage name="www.ubisoft.com">
+    <link name="www.ea.com" />
+    <link name="www.unity.com" />
+    <link name="www.cs.mcgill.ca" />
+	<link name="www.linkedin.com" />
+	<link name="www.netflix.com" />
+	<link name="www.reddit.com" />
+	<link name="www.github.com" />
+	<link name="www.apple.com" />
+	<link name="www.microsoft.com" />
+	<link name="www.adobe.com" />
+	<link name="www.oracle.com" />
+	<link name="www.ibm.com" />
+	<link name="www.spotify.com" />
+	<link name="www.tesla.com" />
+	<link name="www.nasa.gov" />
+	<link name="www.wikipedia.org" />
+	<link name="www.yahoo.com" />
+	<link name="www.bing.com" />
+    <rank value="0.9606946001844072" />
+    <content value="Ubisoft is a creator of worlds, committed to enriching players' lives with original and memorable gaming experiences."/>
+</webpage>
+
+<webpage name="www.eidos.com">
+    <link name="www.ea.com" />
+     <link name="www.unreal.com" />
+    <link name="www.unity.com" />
+    <link name="www.cs.mcgill.ca" />
+    <rank value="0.9059843736107935" />
+    <content value="Square Enix, Inc. develops, publishes, distributes and licenses SQUARE ENIX®, EIDOS® and TAITO® branded entertainment content throughout the Americas as part of the Square Enix group of companies. Square Enix, Inc. is affiliated with a global network of leading development studios such as Crystal Dynamics® and Eidos Montréal™. The Square Enix group of companies boasts a valuable portfolio of intellectual property including: FINAL FANTASY®, which has sold over 144 million units worldwide; DRAGON QUEST®, which has sold over 78 million units worldwide; TOMB RAIDER®, which has sold over 74 million units worldwide; and the legendary SPACE INVADERS®. Square Enix, Inc. is a U.S.-based, wholly owned subsidiary of Square Enix Holdings Co., Ltd."/>
+</webpage>
+
+<webpage name="www.unreal.com">
+    <link name="www.ea.com" />
+    <link name="www.unity.com" />
+    <link name="www.ubisoft.com" />
+    <rank value="0.8357881182365493" />
+    <content value="Unreal is a pure C++ engine designed for high performance. Its advanced CPU/GPU profiling tools and flexible renderer equips developers to efficiently achieve quality VR experiences."/>
+</webpage>
+
+<webpage name="www.unity.com">
+    <link name="www.ea.com" />
+    <link name="www.cs.mcgill.ca" />
+    <link name="www.eidos.com" />
+    <rank value="1.100667245618443" />
+    <content value="Start bringing your vision to life today. Unity’s real-time 3D development platform empowers you with all you need to create, operate, and monetize."/>
+</webpage>
+
+<webpage name="www.google.com">
+    <link name="www.amazon.com" />
+    <link name="www.facebook.com" />
+    <link name="www.cs.mcgill.ca" />
+	<rank value="3.9912200187671862" />
+    <content value="Google LLC is an American multinational technology company that specializes in Internet-related services and products. These include online advertising technologies, a search engine, cloud computing, software, and hardware."/>
+</webpage>
+
+<webpage name="www.amazon.com">
+    <link name="www.google.com" />
+    <link name="www.facebook.com" />
+    <link name="www.cs.mcgill.ca" />
+	<rank value="1.9558695475384456" />
+    <content value="Amazon.com, Inc. is an American multinational technology company based in Seattle, Washington, which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence."/>
+</webpage>
+
+<webpage name="www.facebook.com">
+    <link name="www.google.com" />
+    <link name="www.amazon.com" />
+    <link name="www.cs.mcgill.ca" />
+	<rank value="1.8618343378784201" />
+    <content value="Facebook, Inc. is an American technology conglomerate based in Menlo Park, California. It was founded by Mark Zuckerberg, along with his fellow roommates and students at Harvard College."/>
+</webpage>
+
+<webpage name="www.linkedin.com">
+    <link name="www.google.com" />
+	<rank value="0.614474362294715" />
+    <content value="LinkedIn is an American business and employment-oriented online service that operates via websites and mobile apps."/>
+</webpage>
+
+<webpage name="www.netflix.com">
+    <link name="www.amazon.com" />
+	<rank value="0.5267018094215186" />
+    <content value="Netflix, Inc. is an American over-the-top content platform and production company headquartered in Los Gatos, California."/>
+</webpage>
+
+<webpage name="www.reddit.com">
+    <link name="www.google.com" />
+    <link name="www.facebook.com" />
+	<rank value="0.5267018094215186" />
+    <content value="Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!"/>
+</webpage>
+
+<webpage name="www.github.com">
+    <link name="www.google.com" />
+    <link name="www.facebook.com" />
+    <link name="www.linkedin.com" />
+	<rank value="0.5267018094215186" />
+    <content value="GitHub is where over 65 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it."/>
+</webpage>
+
+<webpage name="www.apple.com">
+    <link name="www.google.com" />
+	<rank value="1.3111068849219105" />
+    <content value="Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support."/>
+</webpage>
+
+<webpage name="www.microsoft.com">
+    <link name="www.google.com" />
+    <link name="www.apple.com" />
+	<rank value="0.7329673086735301" />
+    <content value="At Microsoft our mission and values are to help people and businesses throughout the world realize their full potential."/>
+</webpage>
+
+<webpage name="www.adobe.com">
+    <link name="www.google.com" />
+    <link name="www.apple.com" />
+    <link name="www.microsoft.com" />
+	<rank value="0.5267018094215186" />
+    <content value="Adobe is changing the world through digital experiences. We help our customers create, deliver and optimize content and applications."/>
+</webpage>
+
+<webpage name="www.oracle.com">
+    <link name="www.google.com" />
+	<rank value="0.5267018094215186" />
+    <content value="Oracle offers a comprehensive and fully integrated stack of cloud applications and platform services."/>
+</webpage>
+
+<webpage name="www.ibm.com">
+    <link name="www.google.com" />
+    <link name="www.apple.com" />
+	<rank value="0.5267018094215186" />
+    <content value="For more than a century IBM has been dedicated to every client's success and to creating innovations that matter for the world."/>
+</webpage>
+
+<webpage name="www.spotify.com">
+    <link name="www.google.com" />
+    <link name="www.apple.com" />
+    <link name="www.microsoft.com" />
+    <link name="www.amazon.com" />
+	<rank value="0.5267018094215186" />
+    <content value="Spotify is a digital music service that gives you access to millions of songs."/>
+</webpage>
+
+<webpage name="www.tesla.com">
+    <link name="www.google.com" />
+	<rank value="0.5267018094215186" />
+    <content value="Tesla, Inc. is an American electric vehicle and clean energy company based in Palo Alto, California."/>
+</webpage>
+
+<webpage name="www.nasa.gov">
+    <link name="www.google.com" />
+    <link name="www.apple.com" />
+	<rank value="0.5267018094215186" />
+    <content value="NASA.gov brings you the latest news, images and videos from America's space agency, pioneering the future in space exploration, scientific discovery and aeronautics research."/>
+</webpage>
+
+<webpage name="www.wikipedia.org">
+    <link name="www.google.com" />
+    <link name="www.apple.com" />
+    <link name="www.microsoft.com" />
+    <link name="www.amazon.com" />
+    <link name="www.facebook.com" />
+	<rank value="0.5267018094215186" />
+    <content value="Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation."/>
+</webpage>
+
+<webpage name="www.yahoo.com">
+    <link name="www.google.com" />
+	<rank value="0.5267018094215186" />
+    <content value="Yahoo! is an American web services provider headquartered in Sunnyvale, California, and owned by Verizon Media."/>
+</webpage>
+
+<webpage name="www.bing.com">
+    <link name="www.google.com" />
+    <link name="www.apple.com" />
+	<rank value="0.5267018094215186" />
+    <content value="Bing is a web search engine owned and operated by Microsoft."/>
+</webpage>
+
+
+</test>

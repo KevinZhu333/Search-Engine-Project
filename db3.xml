@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test>
+
+<webpage name="site1">
+    <link name="site2" />
+	<rank value="1.9388740651709402" />
+    <content value="Apple Banana CHERRY dragonfruit Elderberry"/>
+</webpage>
+
+<webpage name="site2">
+    <link name="site3" />
+    <link name="site4" />
+	<rank value="2.00363168987046" />
+    <content value="FIG Grapefruit HONEYDEW Iceberg Jujube"/>
+</webpage>
+
+<webpage name="site3">
+    <link name="site4" />
+    <link name="site5" />
+    <link name="site6" />
+	<rank value="1.5363899363982372" />
+    <content value="Kiwi LEMON Mango Nectarine ORANGE"/>
+</webpage>
+
+<webpage name="site4">
+    <link name="site5" />
+    <link name="site6" />
+    <link name="site7" />
+    <link name="site8" />
+	<rank value="1.5224791402354878" />
+    <content value="Papaya QUINCE Raspberry Strawberry TOMATO"/>
+</webpage>
+
+<webpage name="site5">
+    <link name="site6" />
+    <link name="site7" />
+    <link name="site8" />
+    <link name="site9" />
+    <link name="site10" />
+	<rank value="1.2053354029641872" />
+    <content value="Ugli VANILLA Watermelon Xigua Yumberry"/>
+</webpage>
+
+<webpage name="site6">
+    <link name="site7" />
+	<rank value="1.3330539150835783" />
+    <content value="Zucchini APPLE Banana Cherry DATE"/>
+</webpage>
+
+<webpage name="site7">
+    <link name="site8" />
+    <link name="site9" />
+	<rank value="1.6878853843232509" />
+    <content value="Elderberry FIG Grapefruit HONEYDEW Iceberg"/>
+</webpage>
+
+<webpage name="site8">
+    <link name="site9" />
+    <link name="site10" />
+    <link name="site1" />
+	<rank value="1.439413560655382" />
+    <content value="Jujube Kiwi LEMON Mango Nectarine"/>
+</webpage>
+
+<webpage name="site9">
+    <link name="site10" />
+    <link name="site1" />
+    <link name="site2" />
+    <link name="site3" />
+	<rank value="1.4870379127437234" />
+    <content value="ORANGE Papaya QUINCE Raspberry Strawberry"/>
+</webpage>
+
+<webpage name="site10">
+    <link name="site1" />
+	<rank value="1.252455983740652" />
+    <content value="TOMATO Ugli VANILLA Watermelon Xigua"/>
+</webpage>
+
+<webpage name="site11">
+    <link name="site12" />
+	<rank value="2.121577572727475" />
+    <content value="Yumberry Zucchini APPLE Banana Cherry"/>
+</webpage>
+
+<webpage name="site12">
+    <link name="site13" />
+    <link name="site14" />
+	<rank value="2.128804649939904" />
+    <content value="DATE Elderberry FIG Grapefruit HONEYDEW"/>
+</webpage>
+
+<webpage name="site13">
+    <link name="site14" />
+    <link name="site15" />
+    <link name="site16" />
+	<rank value="1.6011642064803686" />
+    <content value="Iceberg Jujube Kiwi LEMON Mango"/>
+</webpage>
+
+<webpage name="site14">
+    <link name="site15" />
+    <link name="site16" />
+    <link name="site17" />
+    <link name="site18" />
+	<rank value="1.643939515029603" />
+    <content value="Nectarine ORANGE Papaya QUINCE Raspberry"/>
+</webpage>
+
+<webpage name="site15">
+    <link name="site16" />
+    <link name="site17" />
+    <link name="site18" />
+    <link name="site19" />
+    <link name="site20" />
+	<rank value="1.3107377463664085" />
+    <content value="Strawberry TOMATO Ugli VANILLA Watermelon"/>
+</webpage>
+
+<webpage name="site16">
+    <link name="site17" />
+	<rank value="1.3669282261340365" />
+    <content value="Xigua Yumberry Zucchini APPLE Banana"/>
+</webpage>
+
+<webpage name="site17">
+    <link name="site18" />
+    <link name="site19" />
+	<rank value="1.7844984704694173" />
+    <content value="Cherry DATE Elderberry FIG Grapefruit"/>
+</webpage>
+
+<webpage name="site18">
+    <link name="site19" />
+    <link name="site20" />
+    <link name="site11" />
+	<rank value="1.546418730385283" />
+    <content value="HONEYDEW Iceberg Jujube Kiwi LEMON"/>
+</webpage>
+
+<webpage name="site19">
+    <link name="site20" />
+    <link name="site11" />
+    <link name="site12" />
+    <link name="site13" />
+	<rank value="1.6635725897547187" />
+    <content value="Mango Nectarine ORANGE Papaya QUINCE"/>
+</webpage>
+
+<webpage name="site20">
+    <link name="site11" />
+	<rank value="1.4440027571892808" />
+    <content value="Raspberry Strawberry TOMATO Ugli VANILLA"/>
+</webpage>
+
+<webpage name="site21">
+    <link name="site22" />
+    <link name="site1" />
+	<rank value="1.4561732104700855" />
+    <content value="Watermelon Xigua Yumberry Zucchini APPLE"/>
+</webpage>
+
+<webpage name="site22">
+    <link name="site23" />
+    <link name="site2" />
+    <link name="site3" />
+	<rank value="0.8900858039529915" />
+    <content value="Banana Cherry DATE Elderberry FIG"/>
+</webpage>
+
+<webpage name="site23">
+    <link name="site24" />
+    <link name="site4" />
+    <link name="site5" />
+    <link name="site6" />
+	<rank value="0.6744107238247863" />
+    <content value="Grapefruit HONEYDEW Iceberg Jujube Kiwi"/>
+</webpage>
+
+<webpage name="site24">
+    <link name="site25" />
+    <link name="site7" />
+    <link name="site8" />
+    <link name="site9" />
+    <link name="site10" />
+	<rank value="0.6103440504807692" />
+    <content value="LEMON Mango Nectarine ORANGE Papaya"/>
+</webpage>
+
+<webpage name="site25">
+    <link name="site26" />
+    <link name="site11" />
+	<rank value="0.5803345352564102" />
+    <content value="QUINCE Raspberry Strawberry TOMATO Ugli"/>
+</webpage>
+
+<webpage name="site26">
+    <link name="site27" />
+    <link name="site12" />
+    <link name="site13" />
+	<rank value="0.6710967548076923" />
+    <content value="VANILLA Watermelon Xigua Yumberry Zucchini"/>
+</webpage>
+
+<webpage name="site27">
+    <link name="site28" />
+    <link name="site14" />
+    <link name="site15" />
+	<rank value="0.6377918002136752" />
+    <content value="APPLE Banana Cherry DATE Elderberry"/>
+</webpage>
+
+<webpage name="site28">
+    <link name="site29" />
+    <link name="site16" />
+    <link name="site17" />
+    <link name="site18" />
+	<rank value="0.6322657362891738" />
+    <content value="FIG Grapefruit HONEYDEW Iceberg Jujube"/>
+</webpage>
+
+<webpage name="site29">
+    <link name="site30" />
+    <link name="site19" />
+    <link name="site20" />
+	<rank value="0.6049998330662393" />
+    <content value="Kiwi LEMON Mango Nectarine ORANGE"/>
+</webpage>
+
+<webpage name="site30">
+    <link name="site21" />
+	<rank value="0.6460336538461539" />
+    <content value="Papaya QUINCE Raspberry Strawberry TOMATO"/>
+</webpage>
+
+<webpage name="site31">
+    <link name="site32" />
+    <link name="site1" />
+	<rank value="0.0" />
+    <content value="Ugli VANILLA Watermelon Xigua Yumberry"/>
+</webpage>
+
+<webpage name="site32">
+    <link name="site33" />
+    <link name="site2" />
+    <link name="site3" />
+	<rank value="0.5259615384615385" />
+    <content value="Zucchini APPLE Banana Cherry DATE"/>
+</webpage>
+
+<webpage name="site33">
+    <link name="site34" />
+    <link name="site4" />
+    <link name="site5" />
+    <link name="site6" />
+	<rank value="0.6136217948717949" />
+    <content value="Elderberry FIG Grapefruit HONEYDEW Iceberg"/>
+</webpage>
+
+<webpage name="site34">
+    <link name="site35" />
+    <link name="site7" />
+    <link name="site8" />
+    <link name="site9" />
+    <link name="site10" />
+	<rank value="0.6026642628205128" />
+    <content value="Jujube Kiwi LEMON Mango Nectarine"/>
+</webpage>
+
+<webpage name="site35">
+    <link name="site36" />
+    <link name="site11" />
+	<rank value="0.5794971955128205" />
+    <content value="ORANGE Papaya QUINCE Raspberry Strawberry"/>
+</webpage>
+
+<webpage name="site36">
+    <link name="site37" />
+    <link name="site12" />
+    <link name="site13" />
+	<rank value="0.6708363381410256" />
+    <content value="TOMATO Ugli VANILLA Watermelon Xigua"/>
+</webpage>
+
+<webpage name="site37">
+    <link name="site38" />
+    <link name="site14" />
+    <link name="site15" />
+	<rank value="0.6377700988247863" />
+    <content value="Yumberry Zucchini APPLE Banana Cherry"/>
+</webpage>
+
+<webpage name="site38">
+    <link name="site39" />
+    <link name="site16" />
+    <link name="site17" />
+    <link name="site18" />
+	<rank value="0.6322657362891738" />
+    <content value="DATE Elderberry FIG Grapefruit HONEYDEW"/>
+</webpage>
+
+<webpage name="site39">
+    <link name="site40" />
+    <link name="site19" />
+    <link name="site20" />
+	<rank value="0.6049998330662393" />
+    <content value="Iceberg Jujube Kiwi LEMON Mango"/>
+</webpage>
+
+<webpage name="site40">
+    <link name="site21" />
+	<rank value="0.6460336538461539" />
+    <content value="Nectarine ORANGE Papaya QUINCE Raspberry"/>
+</webpage>
+
+<webpage name="site41">
+    <link name="site42" />
+    <link name="site1" />
+	<rank value="0.0" />
+    <content value="Strawberry TOMATO Ugli VANILLA Watermelon"/>
+</webpage>
+
+<webpage name="site42">
+    <link name="site43" />
+    <link name="site2" />
+    <link name="site3" />
+	<rank value="0.5259615384615385" />
+    <content value="Xigua Yumberry Zucchini APPLE Banana"/>
+</webpage>
+
+<webpage name="site43">
+    <link name="site44" />
+    <link name="site4" />
+    <link name="site5" />
+    <link name="site6" />
+	<rank value="0.6136217948717949" />
+    <content value="Cherry DATE Elderberry FIG Grapefruit"/>
+</webpage>
+
+<webpage name="site44">
+    <link name="site45" />
+    <link name="site7" />
+    <link name="site8" />
+    <link name="site9" />
+    <link name="site10" />
+	<rank value="0.6026642628205128" />
+    <content value="HONEYDEW Iceberg Jujube Kiwi LEMON"/>
+</webpage>
+
+<webpage name="site45">
+    <link name="site46" />
+    <link name="site11" />
+	<rank value="0.5794971955128205" />
+    <content value="Mango Nectarine ORANGE Papaya QUINCE"/>
+</webpage>
+
+<webpage name="site46">
+    <link name="site47" />
+    <link name="site12" />
+    <link name="site13" />
+	<rank value="0.6708363381410256" />
+    <content value="Raspberry Strawberry TOMATO Ugli VANILLA"/>
+</webpage>
+
+<webpage name="site47">
+    <link name="site48" />
+    <link name="site14" />
+    <link name="site15" />
+	<rank value="0.6377700988247863" />
+    <content value="Watermelon Xigua Yumberry Zucchini APPLE"/>
+</webpage>
+
+<webpage name="site48">
+    <link name="site49" />
+    <link name="site16" />
+    <link name="site17" />
+    <link name="site18" />
+	<rank value="0.6322657362891738" />
+    <content value="Banana Cherry DATE Elderberry FIG"/>
+</webpage>
+
+<webpage name="site49">
+    <link name="site50" />
+    <link name="site19" />
+    <link name="site20" />
+	<rank value="0.6049998330662393" />
+    <content value="Grapefruit HONEYDEW Iceberg Jujube Kiwi"/>
+</webpage>
+
+<webpage name="site50">
+    <link name="site21" />
+	<rank value="0.6200721153846154" />
+    <content value="LEMON Mango Nectarine ORANGE Papaya"/>
+</webpage>
+
+<webpage name="site51">
+    <link name="site1" />
+    <link name="site10" />
+    <link name="site20" />
+    <link name="site30" />
+    <link name="site40" />
+    <link name="site9" />
+    <link name="site19" />
+    <link name="site29" />
+    <link name="site39" />
+    <link name="site49" />
+	<rank value="0.5192307692307693" />
+    <content value="Peach QUINCE Raspberry Strawberry TOMATO"/>
+</webpage>
+
+<webpage name="site52">
+    <link name="site2" />
+    <link name="site12" />
+    <link name="site22" />
+    <link name="site32" />
+    <link name="site42" />
+    <link name="site7" />
+    <link name="site17" />
+    <link name="site27" />
+    <link name="site37" />
+    <link name="site47" />
+	<rank value="0.5192307692307693" />
+    <content value="Ugli VANILLA Watermelon Xigua Yumberry"/>
+</webpage>
+
+<webpage name="site53">
+    <link name="site3" />
+    <link name="site13" />
+    <link name="site23" />
+    <link name="site33" />
+    <link name="site43" />
+    <link name="site8" />
+    <link name="site18" />
+    <link name="site28" />
+    <link name="site38" />
+    <link name="site48" />
+	<rank value="0.5192307692307693" />
+    <content value="Zucchini APPLE Banana Cherry DATE"/>
+</webpage>
+
+<webpage name="site54">
+    <link name="site4" />
+    <link name="site14" />
+    <link name="site24" />
+    <link name="site34" />
+    <link name="site44" />
+    <link name="site6" />
+    <link name="site16" />
+    <link name="site26" />
+    <link name="site36" />
+    <link name="site46" />
+	<rank value="0.5192307692307693" />
+    <content value="Elderberry FIG Grapefruit HONEYDEW Iceberg"/>
+</webpage>
+
+<webpage name="site55">
+    <link name="site5" />
+    <link name="site15" />
+    <link name="site25" />
+    <link name="site35" />
+    <link name="site45" />
+    <link name="site50" />
+    <link name="site40" />
+    <link name="site30" />
+    <link name="site20" />
+    <link name="site51" />
+	<link name="site52" />
+	<link name="site53" />
+	<link name="site54" />
+	<rank value="0.5" />
+    <content value="Jujube Kiwi LEMON Mango Nectarine"/>
+</webpage>
+
+</test>

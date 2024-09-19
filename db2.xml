@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test>
+
+<webpage name="www.wikipedia.org">
+    <link name="www.google.com" />
+	<rank value="1.0523365162037037" />
+    <content value="Wikipedia is a free online encyclopedia, created and edited by volunteers around the world."/>
+</webpage>
+
+<webpage name="www.google.com">
+    <link name="www.apple.com" />
+    <link name="www.amazon.com" />
+	<rank value="2.616673900462963" />
+    <content value="Google is a multinational technology company specializing in Internet-related services and products."/>
+</webpage>
+
+<webpage name="www.apple.com">
+    <link name="www.microsoft.com" />
+    <link name="www.spotify.com" />
+	<rank value="1.9418782552083331" />
+    <content value="Apple is an American multinational technology company that designs, develops, and sells consumer electronics, computer software, and online services."/>
+</webpage>
+
+<webpage name="www.microsoft.com">
+    <link name="www.amazon.com" />
+    <link name="www.ibm.com" />
+    <link name="www.oracle.com" />
+	<rank value="2.3362521701388883" />
+    <content value="Microsoft is an American multinational technology company with headquarters in Redmond, Washington."/>
+</webpage>
+
+<webpage name="www.amazon.com">
+    <link name="www.netflix.com" />
+    <link name="www.wikipedia.org" />
+	<rank value="2.170811029128086" />
+    <content value="Amazon is an American multinational technology company based in Seattle, Washington, focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence."/>
+</webpage>
+
+<webpage name="www.netflix.com">
+    <link name="www.spotify.com" />
+	<rank value="1.2575339988425926" />
+    <content value="Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices."/>
+</webpage>
+
+<webpage name="www.spotify.com">
+    <link name="www.apple.com" />
+	<rank value="1.309324363425926" />
+    <content value="Spotify is a digital music service that gives you access to millions of songs."/>
+</webpage>
+
+<webpage name="www.oracle.com">
+    <link name="www.ibm.com" />
+	<rank value="0.8966519579475308" />
+    <content value="Oracle offers a comprehensive and fully integrated stack of cloud applications, platform services, and engineered systems."/>
+</webpage>
+
+<webpage name="www.ibm.com">
+    <link name="www.microsoft.com" />
+	<rank value="1.3430133584104937" />
+    <content value="IBM is a leading cloud platform and cognitive solutions company."/>
+</webpage>
+
+<webpage name="www.linkedin.com">
+    <link name="www.google.com" />
+	<rank value="1.3533203125000002" />
+    <content value="LinkedIn is a business and employment-oriented online service that operates via websites and mobile apps."/>
+</webpage>
+
+<webpage name="www.instagram.com">
+    <link name="www.facebook.com" />
+	<rank value="1.4168619791666666" />
+    <content value="Instagram is a photo and video sharing social networking service owned by Facebook, Inc."/>
+</webpage>
+
+<webpage name="www.youtube.com">
+    <link name="www.google.com" />
+    <link name="www.netflix.com" />
+	<rank value="0.8227249710648148" />
+    <content value="YouTube allows users to upload, view, rate, share, add to playlists, report, comment on videos, and subscribe to other users."/>
+</webpage>
+
+<webpage name="www.facebook.com">
+    <link name="www.linkedin.com" />
+    <link name="www.instagram.com" />
+	<rank value="1.3462890625" />
+    <content value="Facebook is a social networking site that makes it easy for people to connect and share with family and friends online."/>
+</webpage>
+
+<webpage name="www.twitter.com">
+    <link name="www.linkedin.com" />
+    <link name="www.github.com" />
+	<rank value="0.5083333333333333" />
+    <content value="Twitter is a microblogging and social networking service on which users post and interact with messages known as 'tweets'."/>
+</webpage>
+
+<webpage name="www.github.com">
+    <link name="www.stackoverflow.com" />
+	<rank value="1.0534505208333333" />
+    <content value="GitHub is a global company that provides hosting for software development and version control using Git."/>
+</webpage>
+
+<webpage name="www.stackoverflow.com">
+    <link name="www.github.com" />
+    <link name="www.microsoft.com" />
+	<rank value="1.1636067708333333" />
+    <content value="Stack Overflow is a question and answer site for professional and enthusiast programmers."/>
+</webpage>
+
+<webpage name="www.dropbox.com">
+    <link name="www.microsoft.com" />
+    <link name="www.google.com" />
+	<rank value="0.5083333333333333" />
+    <content value="Dropbox is a file hosting service that offers cloud storage, file synchronization, personal cloud, and client software."/>
+</webpage>
+
+<webpage name="www.adobe.com">
+    <link name="www.microsoft.com" />
+    <link name="www.apple.com" />
+	<rank value="0.5083333333333333" />
+    <content value="Adobe is a multinational computer software company."/>
+</webpage>
+
+<webpage name="www.pinterest.com">
+    <link name="www.instagram.com" />
+	<rank value="0.6354166666666666" />
+    <content value="Pinterest is a visual discovery engine for finding ideas like recipes, home and style inspiration, and more."/>
+</webpage>
+
+<webpage name="www.reddit.com">
+    <link name="www.linkedin.com" />
+	<rank value="0.7625" />
+    <content value="Reddit is a network of communities based on people's interests."/>
+</webpage>
+
+<webpage name="www.quora.com">
+    <link name="www.reddit.com" />
+	<rank value="0.5083333333333333" />
+    <content value="Quora is a place to gain and share knowledge, empowering people to learn from others and better understand the world."/>
+</webpage>
+
+<webpage name="www.tumblr.com">
+    <link name="www.pinterest.com" />
+    <link name="www.instagram.com" />
+	<rank value="0.5083333333333333" />
+    <content value="Tumblr is a place to express yourself, discover yourself, and bond over the stuff you love."/>
+</webpage>
+
+<webpage name="www.snapchat.com">
+    <link name="www.facebook.com" />
+    <link name="www.instagram.com" />
+	<rank value="0.5083333333333333" />
+    <content value="Snapchat is a camera and messaging app that connects people to their friends and the world."/>
+</webpage>
+
+<webpage name="www.zoom.us">
+    <link name="www.microsoft.com" />
+    <link name="www.google.com" />
+	<rank value="0.5083333333333333" />
+    <content value="Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars."/>
+</webpage>
+
+<webpage name="www.slack.com">
+    <link name="www.github.com" />
+    <link name="www.stackoverflow.com" />
+	<rank value="0.5083333333333333" />
+    <content value="Slack is a new way to communicate with your team. It's faster, better organized, and more secure than email."/>
+</webpage>
+
+<webpage name="www.alibaba.com">
+    <link name="www.amazon.com" />
+	<rank value="0.6671875" />
+    <content value="Alibaba.com is the largest B2B marketplace, a platform for online trade between importers and exporters."/>
+</webpage>
+
+<webpage name="www.ebay.com">
+    <link name="www.amazon.com" />
+    <link name="www.alibaba.com" />
+	<rank value="0.6354166666666666" />
+    <content value="eBay is a global commerce leader that allows you to shape how the world buys, sells, and gives."/>
+</webpage>
+
+<webpage name="www.shopify.com">
+    <link name="www.amazon.com" />
+    <link name="www.ebay.com" />
+	<rank value="0.5083333333333333" />
+    <content value="Shopify is a leading global commerce company, providing trusted tools to start, grow, market, and manage a retail business of any size."/>
+</webpage>
+
+<webpage name="www.uber.com">
+    <link name="www.google.com" />
+	<rank value="0.6354166666666666" />
+    <content value="Uber is a platform where those who drive and deliver can connect with riders, eaters, and restaurants."/>
+</webpage>
+
+<webpage name="www.airbnb.com">
+    <link name="www.google.com" />
+    <link name="www.uber.com" />
+	<rank value="0.5083333333333333" />
+    <content value="Airbnb is a platform that connects people from around the world to incredible places to stay and interesting things to do."/>
+</webpage>
+
+<webpage name="www.netflix.com">
+    <link name="www.youtube.com" />
+	<rank value="1.2575339988425926" />
+    <content value="Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices."/>
+</webpage>
+
+<webpage name="www.spotify.com">
+    <link name="www.apple.com" />
+	<rank value="1.309324363425926" />
+    <content value="Spotify is a digital music service that gives you access to millions of songs."/>
+</webpage>
+
+<webpage name="www.oracle.com">
+    <link name="www.ibm.com" />
+	<rank value="0.8966519579475308" />
+    <content value="Oracle offers a comprehensive and fully integrated stack of cloud applications, platform services, and engineered systems."/>
+</webpage>
+
+
+<webpage name="www.linkedin.com">
+    <link name="www.google.com" />
+	<rank value="1.3533203125000002" />
+    <content value="LinkedIn is a business and employment-oriented online service that operates via websites and mobile apps."/>
+</webpage>
+
+<webpage name="www.instagram.com">
+    <link name="www.facebook.com" />
+	<rank value="1.4168619791666666" />
+    <content value="Instagram is a photo and video sharing social networking service owned by Facebook, Inc."/>
+</webpage>
+
+<webpage name="www.youtube.com">
+    <link name="www.google.com" />
+	<rank value="0.8227249710648148" />
+    <content value="YouTube allows users to upload, view, rate, share, add to playlists, report, comment on videos, and subscribe to other users."/>
+</webpage>
+
+<webpage name="www.facebook.com">
+    <link name="www.linkedin.com" />
+	<rank value="1.3462890625" />
+    <content value="Facebook is a social networking site that makes it easy for people to connect and share with family and friends online."/>
+</webpage>
+
+<webpage name="www.all-links.com">
+    <link name="www.wikipedia.org" />
+    <link name="www.google.com" />
+    <link name="www.apple.com" />
+    <link name="www.microsoft.com" />
+    <link name="www.amazon.com" />
+    <link name="www.netflix.com" />
+    <link name="www.spotify.com" />
+    <link name="www.oracle.com" />
+    <link name="www.ibm.com" />
+    <link name="www.linkedin.com" />
+    <link name="www.instagram.com" />
+    <link name="www.youtube.com" />
+    <link name="www.facebook.com" />
+    <link name="www.twitter.com" />
+    <link name="www.github.com" />
+    <link name="www.stackoverflow.com" />
+    <link name="www.dropbox.com" />
+    <link name="www.adobe.com" />
+    <link name="www.pinterest.com" />
+    <link name="www.reddit.com" />
+    <link name="www.quora.com" />
+    <link name="www.tumblr.com" />
+    <link name="www.snapchat.com" />
+    <link name="www.zoom.us" />
+    <link name="www.slack.com" />
+    <link name="www.alibaba.com" />
+    <link name="www.ebay.com" />
+    <link name="www.shopify.com" />
+    <link name="www.uber.com" />
+    <link name="www.airbnb.com" />
+	<rank value="0.5" />
+    <content value="This is a webpage that contains links to all the webpages provided before."/>
+</webpage>
+
+
+</test>
+
+
+
