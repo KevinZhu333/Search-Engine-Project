@@ -21,4 +21,6 @@ This project simulates a simple search engine. It explores a subset of the web (
 
 To run this project locally, mostly used IntelliJ IDEA:
 
-1. Arrange the files 
+Arrange the files like shown below:
+
+![IntelliJ IDEA File Arrangements](assets/IntelliJ_IDEA_File_Arrangements.png)
